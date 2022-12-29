@@ -3,7 +3,7 @@ package br.dev.free.cursos;
 /**
  * Descrição do projeto, objetivo, entrada, saída, etc.
  */
-public class AppMain {
+public class CalculadoraMain {
 
     public static void main(String[] args) {
 
