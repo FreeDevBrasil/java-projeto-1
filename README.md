@@ -1,3 +1,15 @@
-# Projeto de exercício Java
+# Calculadora na linha de comando (JAVA)
 
-Descrição do exercício.
+### Descrição
+
+Uma calculadora que suporta emtradas como:
+
+* `1`
+* `1 + 5`
+* `10 - 7 + 4`
+* `24 + 1 - 2 / 4`
+* `95 * 2 - 1 + 5 / 3`
+
+e retorna o resultado se a entrada for valida, ou mensagem `Entrada invalida`.
+
+Tambem tera que gravar todas operações feitas num arquivo `historico.txt`
