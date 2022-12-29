@@ -2,7 +2,7 @@
 
 ### Descrição
 
-Uma calculadora que suporta emtradas como:
+Uma calculadora que suporta entradas como:
 
 * `1`
 * `1 + 5`
