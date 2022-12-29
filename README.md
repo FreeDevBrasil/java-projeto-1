@@ -13,3 +13,7 @@ Uma calculadora que suporta emtradas como:
 e retorna o resultado se a entrada for valida, ou mensagem `Entrada invalida`.
 
 Tambem tera que gravar todas operações feitas num arquivo `historico.txt`
+
+Entrada principal é AppMain.java -> main() e utilize argumentos para passar a expressão matemática.
+
+![img.png](img.png)

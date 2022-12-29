@@ -5,10 +5,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>br.dev.free</groupId>
-    <artifactId>projeto-template</artifactId>
+    <artifactId>projeto-calculadora</artifactId>
     <version>0.1-SNAPSHOT</version>
 
-    <name>projeto-template</name>
+    <name>projeto-calculadora</name>
 
     <properties>
         <maven.compiler.source>19</maven.compiler.source>
